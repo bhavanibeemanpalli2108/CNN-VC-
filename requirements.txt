@@ -1,0 +1,9 @@
+tensorflow
+numpy
+opencv-python
+matplotlib
+pandas
+scikit-learn
+seaborn
+streamlit
+split-folders
