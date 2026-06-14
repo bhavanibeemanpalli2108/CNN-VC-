@@ -1,9 +1,10 @@
-tensorflow
+requirements.txt
+tensorflow==2.16.1
+streamlit
 numpy
-opencv-python
-matplotlib
 pandas
 scikit-learn
+opencv-python-headless
+matplotlib
 seaborn
-streamlit
-split-folders
+pillow
